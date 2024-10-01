@@ -1,0 +1,1 @@
+import{A as c,f as s,o as _}from"./index-B_QD-oMN.js";const a=(e,t)=>{const o=e.__vccOpts||e;for(const[n,r]of t)o[n]=r;return o},f={};function p(e,t){const o=s("router-view");return _(),c(o)}const i=a(f,[["render",p]]);export{i as default};
